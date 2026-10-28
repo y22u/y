@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Secrets and local config
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+credentials/
+
+# Local state
+*.sqlite
+*.sqlite3
+*.db
+*.log
+data/
+logs/
+backups/
+
+# Large/private assets - review before publishing
+models/
+model_cache/
+voice_samples/
+reference_audio/
+
+# Build output
+build/
+dist/
+*.zip
+*.sha256
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
