@@ -1,6 +1,6 @@
-# StarPetFusion 4.10.26
+# StarPetFusion 4.10.26（崩坏星穹铁道桌宠）
 
-StarPetFusion 是一个面向本地运行的桌宠与角色工作台项目。桌宠形象需在powershell运行python prerare.py从GitHub上下载崩铁大黑塔的Q版形象和大肥鱼形象，也可自行上传，文字版无形象。角色为崩坏星琼铁道中的角色，更细致的设定和角色专属音色需要自己进行补充。
+StarPetFusion 是一个面向本地运行的桌宠与角色工作台项目。桌宠形象需在powershell运行python prerare.py从GitHub上下载崩铁大黑塔的Q版形象和大肥鱼形象，也可自行上传，文字版无形象。角色为崩坏星穹铁道中的角色，更细致的设定和角色专属音色需要自己进行补充。
 
 ## 文档
 - [Windows 安装指南](docs/INSTALL_WINDOWS.md)
